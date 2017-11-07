@@ -30,32 +30,69 @@ void setup() {
 // the loop function runs over and over again forever
 void loop() {
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(3000);                       // wait for a second
+  delay(1000);                       // wait for a second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
   
   digitalWrite(LED_BUILTIN, HIGH);   
-  delay(3000);                       
+  delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);                       
   
   digitalWrite(LED_BUILTIN, HIGH);   
-  delay(1000);                       
+  delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);   
+  delay(3000);   
   
   digitalWrite(LED_BUILTIN, HIGH);   
-  delay(1000);                       
+  delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);    
 
   digitalWrite(LED_BUILTIN, HIGH);   
-  delay(1000);                       
+  delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);
        
   digitalWrite(LED_BUILTIN, HIGH);   
-  delay(3000);                       
+  delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(3000);                 
+  delay(3000);   
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(3000);
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(1000);  
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(1000);   
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(3000);   
+  
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(1000);  
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(1000);   
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(3000); 
+    
+                
 }
