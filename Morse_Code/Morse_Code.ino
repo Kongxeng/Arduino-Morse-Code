@@ -32,296 +32,296 @@ void loop() {
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(1000);                       // wait for a second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(1000);                       // wait for a second
+  delay(500);                       // wait for a second
   
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);                       
+  delay(500);                       
   
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);   
+  delay(1000);   
 //letter  g
   
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);    
+  delay(500);    
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
        
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);   
+  delay(1000);   
 //letter u 
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
+  delay(1000);
 //letter e
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);  
+  delay(500);  
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);   
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);   
-
-  digitalWrite(LED_BUILTIN, HIGH);   
-  delay(333);                       
-  digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);   
 //letter  s
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);  
+  delay(500);  
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);   
+  delay(500);   
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000); 
+  delay(1000); 
 //word   s
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(1000);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);
-
-  digitalWrite(LED_BUILTIN, HIGH);   
-  delay(1000);                       
-  digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
 //letter   w
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);
-
-  digitalWrite(LED_BUILTIN, HIGH);   
-  delay(333);                       
-  digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
-
-  digitalWrite(LED_BUILTIN, HIGH);   
-  delay(333);                       
-  digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
 //letter   h
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
+  delay(1000);
 //letter   a
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000); 
+  delay(1000); 
 //word    t
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
+  delay(1000);
 //letter    t 
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);  
+  delay(500);  
      
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);
-
-  digitalWrite(LED_BUILTIN, HIGH);   
-  delay(333);                       
-  digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
 //letter   h
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
+  delay(1000);
 //letter    i
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);
-
-  digitalWrite(LED_BUILTIN, HIGH);   
-  delay(333);                       
-  digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
 //word   s
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);  
+  delay(500);  
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000); 
+  delay(1000); 
 //letter   m
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);  
+  delay(500);  
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(1000);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);
-
-  digitalWrite(LED_BUILTIN, HIGH);   
-  delay(1000);                       
-  digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
 //word  o
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
   
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
+  delay(1000);
 //letter   r
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
   
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
+  delay(1000);
 //letter  s
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
+  delay(1000);
 //word e  
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000); 
+  delay(500); 
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
+  delay(1000);
 //letter   c  
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(1000);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);
-
-  digitalWrite(LED_BUILTIN, HIGH);   
-  delay(1000);                       
-  digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
 //letter   o  
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1000);
+  delay(500);
+
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(333);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);
 
   digitalWrite(LED_BUILTIN, HIGH);   
   delay(333);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);
-
-  digitalWrite(LED_BUILTIN, HIGH);   
-  delay(333);                       
-  digitalWrite(LED_BUILTIN, LOW);    
-  delay(2000);
 //letter d  
 
   digitalWrite(LED_BUILTIN, HIGH);   
